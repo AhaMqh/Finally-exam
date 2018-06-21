@@ -1,0 +1,62 @@
+body{
+    background-color:#F8F8F8;
+}
+.container{
+   width: 95%;
+   background-color: white;
+   margin-top: -20px;
+
+}
+.navbar{
+    border: none;
+    border-bottom:#1CB29C 4px solid;
+}
+.dropdown-toggle{
+    background-color:#1CB29C;
+    color: white;
+    border: none;
+    border-left: #FFC125 solid 4px;
+    height: 25px;
+    margin: 16px 4px 6px 4px;
+    
+
+}
+.navbar-header{
+    background-color:#1CB29C;
+}
+.icon-unit{
+    height: 90px;
+    width: 112px;
+    background-color: aquamarine;
+    margin: 6px 10px;
+    float: left;
+}
+.row{
+    padding: 10px 10px 0px 10px;
+}
+ .row p {
+   color:black;
+}
+.row p:hover{
+   color: coral;
+ }
+.panel{
+    float: right;
+    background-color: #1CB29C;
+    color: white;
+}
+.panel-heading{
+    border-bottom: #F8F8F8 3px solid;
+    
+}
+.table-responsive{
+width: 73%;
+}
+
+.well{
+    margin-top: 30px;
+}
+.realTime{
+    margin: 5px 40px;
+}
+
