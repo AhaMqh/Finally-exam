@@ -100,7 +100,7 @@
                 <div class="col-sm-3 col-lg-1 col-xs-4 col-md-2">
                     <a href="#" class="thumbnail">
                         <img src="imgs/gl.jpg">
-                        <p class="text-center">会员管理</p>
+                        <p class="text-center" onclick="">会员管理</p>
                     </a>
                 </div>
                 <div class="col-sm-3 col-lg-1 col-xs-4 col-md-2">
