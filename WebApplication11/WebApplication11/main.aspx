@@ -64,73 +64,73 @@
                 <div class="col-sm-3 col-lg-1 col-xs-4 col-md-2">
                     <a href="#" class="thumbnail">
                         <img src="imgs/sx.jpg">
-                        <p class="text-center" onclick="reloadPage()">刷新</p>
+                        <a><p class="text-center" onclick="reloadPage()">刷新</p></a>
                     </a>
                 </div>
                 <div class="col-sm-3 col-lg-1 col-xs-4 col-md-2">
                     <a href="#" class="thumbnail">
                         <img src="imgs/jh.jpg">
-                        <p class="text-center">激活</p>
+                        <a><p class="text-center">激活</p></a>
                     </a>
                 </div>
                 <div class="col-sm-3 col-lg-1 col-xs-4 col-md-2">
                     <a href="#" class="thumbnail">
                         <img src="imgs/sx.jpg">
-                        <p class="text-center">上机</p>
+                          <a><p class="text-center">上机</p></a>
                     </a>
                 </div>
                 <div class="col-sm-3 col-lg-1 col-xs-4 col-md-2">
                     <a href="#" class="thumbnail">
                         <img src="imgs/jq.jpg">
-                        <p class="text-center">加钱</p>
+                          <a><p class="text-center">加钱</p></a>
                     </a>
                 </div>
                 <div class="col-sm-3 col-lg-1 col-xs-4 col-md-2">
                     <a href="#" class="thumbnail">
                         <img src="imgs/jz.jpg">
-                        <p class="text-center">结账</p>
+                          <a><p class="text-center">结账</p></a>
                     </a>
                 </div>
                 <div class="col-sm-3 col-lg-1 col-xs-4 col-md-2">
                     <a href="#" class="thumbnail">
                         <img src="imgs/tj.jpg">
-                        <p class="text-center">添加会员</p>
+                          <a><p class="text-center">添加会员</p></a>
                     </a>
                 </div>
                 <div class="col-sm-3 col-lg-1 col-xs-4 col-md-2">
                     <a href="#" class="thumbnail">
                         <img src="imgs/gl.jpg">
-                        <p class="text-center" onclick="">会员管理</p>
+                          <a href="mManagement.aspx" target="_blank"><p class="text-center">会员管理</p></a>
                     </a>
                 </div>
                 <div class="col-sm-3 col-lg-1 col-xs-4 col-md-2">
                     <a href="#" class="thumbnail">
                         <img src="imgs/ptk.jpg">
-                        <p class="text-center">普通卡</p>
+                        <a><p class="text-center">普通卡</p></a>
                     </a>
                 </div>
                 <div class="col-sm-3 col-lg-1 col-xs-4 col-md-2">
                     <a href="#" class="thumbnail">
                         <img src="imgs/sjjl.jpg">
-                        <p class="text-center">上机记录</p>
+                          <a  href="computerRecords.aspx" target="_blank"><p class="text-center">上机记录</p></a>
                     </a>
                 </div>
                 <div class="col-sm-3 col-lg-1 col-xs-4 col-md-2">
                     <a href="#" class="thumbnail">
                         <img src="imgs/jqjl.jpg">
-                        <p class="text-center">加钱记录</p>
+                          <a><p class="text-center">加钱记录</p></a>
                     </a>
                 </div>
                 <div class="col-sm-3 col-lg-1 col-xs-4 col-md-2">
                     <a href="#" class="thumbnail">
                         <img src="imgs/sd.jpg">
-                        <p class="text-center">锁定本机</p>
+                          <a><p class="text-center">锁定本机</p></a>
                     </a>
                 </div>
                 <div class="col-sm-3 col-lg-1 col-xs-4 col-md-2">
                     <a href="#" class="thumbnail">
                         <img src="imgs/bz.jpg   ">
-                        <p class="text-center">帮助</p>
+                          <a><p class="text-center">帮助</p></a>
                     </a>
                 </div>
             </div>

@@ -94,6 +94,7 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="computerRecords.aspx" />
     <Content Include="main.aspx" />
     <Content Include="mManagement.aspx" />
     <Content Include="packages.config" />
@@ -113,6 +114,13 @@
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="computerRecords.aspx.cs">
+      <DependentUpon>computerRecords.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="computerRecords.aspx.designer.cs">
+      <DependentUpon>computerRecords.aspx</DependentUpon>
+    </Compile>
     <Compile Include="main.aspx.cs">
       <DependentUpon>main.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>

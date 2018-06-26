@@ -32,10 +32,16 @@ body{
     float: left;
 }
 .row{
-    padding: 10px 10px 0px 10px;
-}
- .row p {
+  .row p {
    color:black;
+   margin-top:-10px;
+}
+.row p:hover{
+   color: coral;
+ l;
+  }
+.
+.ck;
 }
 .row p:hover{
    color: coral;
